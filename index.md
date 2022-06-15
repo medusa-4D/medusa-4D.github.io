@@ -1,3 +1,3 @@
- ---
- redirect:   https://medusa.lukas-snoek.com/medusa
- --
+---
+redirect:   https://medusa.lukas-snoek.com/medusa
+---
